@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Michroma', sans-serif;
+}
+
+h1 {
+  color: #bc658d;
+  margin-top: 0;
+  font-family: 'Michroma', sans-serif;
+  font-size: 60px;
+}
+
+h2 {
+  color: #bc658d
+}
+
+h3 {
+  color: #562349;
+}
+
+hr {
+  border: 7px dotted #f3e1e1;
+  border-bottom: none;
+  background-color: white;
+  width: 12%;
+  margin: 100px auto;
+}
+
+a {
+  color: #bc658d;
+  margin: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.topcontainer {
+  background-color: #f3e1e1;
+  position: relative;
+  padding-top: 100px
+}
+
+.middle-container {
+  padding: 20px
+}
+
+.bottom-container {
+  background-color: #f3e1e1;
+  padding: 50px 0 40px;
+  width: 100%;
+  position: absolute;
+  display:block;
+
+
+}
+
+.contact-me {
+  font-size: 15px;
+  color: #bc658d;
+}
+
+.final {
+  font-size: 10px;
+  color: #bc658d;
+  padding: 20px;
+}
+
+.intro {
+  margin: auto;
+  padding: 20px;
+  width: 30%;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.cloud-bottom {
+  position: absolute;
+  bottom: 300px;
+  left: 300px
+}
+
+.pro {
+  text-decoration: underline;
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.coding-img {
+  width: 25%;
+  float: left;
+}
+
+.marketing-img {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.myButton {
+  background-color: #bc658e;
+  border-radius: 28px;
+  border: 1px solid #ab19a1;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+}
+
+.myButton:hover {
+  background-color: #562349;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
